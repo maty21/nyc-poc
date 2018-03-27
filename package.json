@@ -1,0 +1,15 @@
+{
+  "name": "istanbulapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "istanbul": "^0.4.5",
+    "istanbul-api": "^1.3.1"
+  }
+}
